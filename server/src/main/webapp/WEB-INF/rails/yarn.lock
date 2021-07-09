@@ -1169,10 +1169,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.7.tgz#98a993516c859eb0d5c4c8f098317a9ea68db9ad"
   integrity sha512-cxWFQVseBm6O9Gbw1IWb8r6OS4OhSt3hPZLkFApLjM8TEXROBuQGLAH2i2gZpcXdLBIrpXuTDhH7Vbm1iXmNGA==
 
-"@types/license-checker@^25.0.1":
-  version "25.0.1"
-  resolved "https://registry.yarnpkg.com/@types/license-checker/-/license-checker-25.0.1.tgz#71fa3795eb73f0a47ca3b252beb7975fc77a5890"
-  integrity sha512-M6bhv9CmxG/BAX7fH24lhKjK7oBG/fHDkGf2HYEnIA906mtYA4Oa4Hb3Vgz7Ijni5sdz2sbWuTY5x8JeTxuK6w==
+"@types/license-checker@^25.0.2":
+  version "25.0.2"
+  resolved "https://registry.yarnpkg.com/@types/license-checker/-/license-checker-25.0.2.tgz#43a88640066006f6fc88c10a42fde543a601e31a"
+  integrity sha512-KMmHhq9HGcOXpFxiwTUftGvstNCPrzGiKDK1EkVs/Df+nI/6KnCXgcykYD6pa77l7NAHTcpS6kopVzS8H+W1lg==
 
 "@types/lodash@^4.14.170":
   version "4.14.170"
