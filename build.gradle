@@ -45,7 +45,7 @@ def goVersions = new GoVersions(
   nextVersion: GO_VERSION_NEXT,
 
   // Default target version. Can be overridden by sub-projects.
-  targetJavaVersion: 17,
+  targetJavaVersion: 21,
 
   // Version of JVM to compile and test using.
   buildJavaVersion: 25,
@@ -118,10 +118,10 @@ def libraries = [
   jruby               : 'org.jruby:jruby:9.4.14.0',
   jsonUnit            : 'net.javacrumbs.json-unit:json-unit-assertj:5.1.0',
   jsoup               : 'org.jsoup:jsoup:1.22.1',
-  junit5Bom           : 'org.junit:junit-bom:6.0.1',
+  junit5Bom           : 'org.junit:junit-bom:6.0.2',
   liquibase           : 'org.liquibase:liquibase-core:5.0.1',
   liquibaseSlf4j      : 'com.mattbertolini:liquibase-slf4j:5.1.0',
-  logback             : 'ch.qos.logback:logback-classic:1.5.23',
+  logback             : 'ch.qos.logback:logback-classic:1.5.24',
   lombok              : 'org.projectlombok:lombok:1.18.42',
   mockitoBom          : 'org.mockito:mockito-bom:5.21.0',
   mybatis             : 'org.mybatis:mybatis:3.5.19',
